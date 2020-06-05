@@ -19,7 +19,7 @@ cryptography==2.2.2
 cssselect==1.0.3
 DBUtils==1.2
 decorator==4.2.1
-Django==1.11.11
+Django==1.11.29
 enum34==1.1.6
 Flask==0.12.1
 Flask-Cors==3.0.3
